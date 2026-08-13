@@ -1,7 +1,7 @@
 # SQL Server Articles
 
 A collected archive of technical articles on Microsoft SQL Server by
-**Don Schlichting**, originally published as a monthly column.
+**Don Schlichting**, originally published as a monthly column to either Microsoft Press or Technology Advice.
 
 Topics range from Full Text Search, locking and transaction isolation, and linked
 servers through to reporting services, BLOB storage, and early cloud databases.
